@@ -35,3 +35,17 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Discord Lambda!')
     }
 ~~~
+
+tendremos que descargar el repositorio de discord-webhook
+
+~~~
+pip install discord-webhook
+~~~
+
+con esto ya podriamos lanzarlo y que nos aparezca el mensaje en nuestro discord
+
+![imagen primera parte](imagenes/Screenshot_20240311_180039.png)
+
+Ahora para llevarlo a aws habra que hacer primero una capa 
+
+![imagen primera parte](imagenes/Screenshot_20240311_180312.png)
