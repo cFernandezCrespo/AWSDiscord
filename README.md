@@ -46,6 +46,16 @@ con esto ya podriamos lanzarlo y que nos aparezca el mensaje en nuestro discord
 
 ![imagen primera parte](imagenes/Screenshot_20240311_180039.png)
 
-Ahora para llevarlo a aws habra que hacer primero una capa 
+Ahora para llevarlo a aws habra que hacer primero una capa, en ella tendremos que copiar y pegar la carpeta lib/
 
 ![imagen primera parte](imagenes/Screenshot_20240311_180312.png)
+
+![imagen primera parte](imagenes/Screenshot_20240311_180235.png)
+
+![imagen primera parte](imagenes/Screenshot_20240311_180328.png)
+
+Así estaria listo para en el proyecto poner el codigo lanzarlo y que funcione
+
+![imagen primera parte](imagenes/Screenshot_20240311_181353.png)
+
+así ya estaria listo para lanzar y que nos mande el mensaje
